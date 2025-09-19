@@ -1,3 +1,7 @@
+# currency-calculator
+
+🌐 **[Click here to see the deployed app!](https://posts-roan.vercel.app/)**
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
