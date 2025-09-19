@@ -1,4 +1,4 @@
-# currency-calculator
+# posts
 
 🌐 **[Click here to see the deployed app!](https://posts-roan.vercel.app/)**
 
